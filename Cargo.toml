@@ -6,6 +6,7 @@ authors = [ "27Onion" ]
 about = "A jsfuck encoder written in rust."
 description = "A jsfuck encoder written in rust."
 license = "GPL-2.0-or-later"
+repository = "https://github.com/onion108/just-fuck"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
